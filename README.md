@@ -41,3 +41,6 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Find on RubyGems
 
 You can find this gem on [rubygems.org/gems/kazuma_wada](https://rubygems.org/gems/kazuma_wada).
+
+<!-- ## memo
+pushしたら、gem push kazuma_wada-0.1.0.gemもやる必要がある。rubygemとこのrepoは紐づいてないから。 -->
